@@ -1,16 +1,16 @@
-# Hi there! 👋
+## Hi!
 
 My name is **Anamitra Rawat**, and I am currently an undergraduate student at **Cornell University**, College of Engineering. I am a rising senior majoring in **Computer Science** with a minor in **Artificial Intelligence**.
 
-## About Me
+### About Me
 
--  I'm passionate about **backend systems, machine learning, and building scalable software**.
-- Incoming **Software Engineering Intern at New York Life** (backend systems & AI initiatives); previously interned at **Talcott Financial Group**.
-- Currently a Teaching Assistant for CS 4750/5750 Foundations of Robotics 
--  Learning **RAG and AWS migrations**.
--  Looking for **New Grad SWE positions**.
+- 👓I'm passionate about **backend systems, machine learning, and building scalable software**.
+- 💼Incoming **Software Engineering Intern at New York Life Insurance e** (backend systems & AI initiatives)
+- 🎓Currently a Teaching Assistant for CS 4750/5750 Foundations of Robotics 
+- 🌱Learning **RAG and AWS migrations**.
+- 👩🏽‍💻Looking for **New Grad SWE positions**.
 
-## Languages and Tools 🛠️
+### Languages and Tools 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,21 +37,21 @@ My name is **Anamitra Rawat**, and I am currently an undergraduate student at **
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Project Experience 💡
+### Project Experience 💡
 
-### BeautyBytes | React, Flask, Python, scikit-learn
+#### 💄 BeautyBytes | React, Flask, Python, scikit-learn 
 Built a full-stack makeup/skincare recommendation web app enabling natural language product discovery across 20K+ beauty products. Used TF-IDF vectorization and cosine similarity for query-to-product matching, with a RAG component that generates natural language explanations for each recommendation.
 
-### Makeup Mastermind | Python, Streamlit, scikit-learn, Claude API
+#### 💻 Makeup Mastermind | Python, Streamlit, scikit-learn, Claude API
 Built a personalized beauty recommender over a merged 5,000+ product dataset from Sephora and Ulta, fuzzy-matching cross-retailer products to unify the catalog. Compared three ranking models (Logistic Regression, Random Forest, Gradient Boosting) and integrated a Claude-powered chatbot that explains *why* each product is recommended based on skin type, budget, and ingredient preferences. Evaluated with NDCG@5 and precision@k, reported separately for makeup vs. skincare.
 
-### SmartLoan Analyzer | Python, FastAPI, scikit-learn, JavaScript
+#### 📊 SmartLoan Analyzer | Python, FastAPI, scikit-learn, JavaScript
 Built a full-stack ML application with a FastAPI backend and a scikit-learn model achieving 85% accuracy on loan approval predictions across 5K+ financial records. Added a Pydantic + StandardScaler validation pipeline that cut input errors by 30%.
 
-### SprintPulse Analytics Platform | Power BI, SQL, REST API, ETL
+#### 📉 SprintPulse Analytics Platform | Power BI, SQL, REST API, ETL
 Built an executive BI dashboard tracking sprint velocity and team productivity across 5+ agile teams, with automated ETL pipelines ingesting work items from Azure DevOps APIs for real-time analytics.
 
-## Want to Chat? 📫
+### How to Reach me ? 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamitra-rawat/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamitra.rawat1@gmail.com)
