@@ -1,11 +1,12 @@
 ## Hi!
 
-My name is **Anamitra Rawat**, and I am currently an undergraduate student at **Cornell University**, College of Engineering. I am a rising senior majoring in **Computer Science** with a minor in **Artificial Intelligence**.
+My name is **Anamitra Rawat**
+I am currently an undergraduate student at **Cornell University**, College of Engineering. I am a rising senior majoring in Computer Science with a minor in **Artificial Intelligence**.
 
 ### About Me
 
 - 👓I'm passionate about **backend systems, machine learning, and building scalable software**.
-- 💼Incoming **Software Engineering Intern at New York Life Insurance e** (backend systems & AI initiatives)
+- 💼Incoming **Software Engineering Intern at New York Life Insurance ** (backend systems & AI initiatives)
 - 🎓Currently a Teaching Assistant for CS 4750/5750 Foundations of Robotics 
 - 🌱Learning **RAG and AWS migrations**.
 - 👩🏽‍💻Looking for **New Grad SWE positions**.
