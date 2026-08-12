@@ -1,196 +1,266 @@
 <div align="center">
 
-# Anamitra Rawat
+<br>
 
-### Software Engineer · Backend · Cloud · AI
+# Hey, I'm Anamitra 👋
 
-**Cornell University · Computer Science + Artificial Intelligence · Class of 2026**
+### I build software at the intersection of **backend systems, cloud infrastructure & AI.**
 
-<p>
-  <a href="https://www.linkedin.com/in/anamitra-rawat">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/anamitra-rawat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:anamitra.rawat1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamitra-rawat)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anamitra-rawat)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anamitra.rawat1@gmail.com)
+
+<br>
+<br>
 
 </div>
 
 ---
 
-## About
+## hi, I'm Anamitra :)
 
-I'm a **Computer Science undergraduate at Cornell University** with a minor in **Artificial Intelligence**, focused on building reliable software at the intersection of **backend engineering, cloud infrastructure, and AI**.
+I'm a **Computer Science student at Cornell University** with a minor in **Artificial Intelligence**, graduating in **December 2026**.
 
-Currently a **Software Engineering Intern at New York Life Insurance**, where I work on backend services, microservices, AWS infrastructure, and AI-powered internal applications.
+I like understanding how things work under the hood and then building them better.
 
-**Interests:** Backend Systems · Distributed Systems · Cloud Infrastructure · Generative AI · System Design
+My interests sit around **backend engineering, distributed systems, cloud infrastructure, and AI** — especially the part where all of those things come together to create useful products.
+
+Currently, I'm a **Software Engineering Intern at New York Life**, where I'm working on backend services, AWS infrastructure, microservices, and AI-powered internal tools.
+
+Outside of work, I'm building software for the **Cornell Mars Rover Team** and doing software engineering research in the **Cornell Organic Robotics Lab**.
+
+<br>
+
+> **Currently exploring:** `RAG` · `LLM Applications` · `AWS` · `Distributed Systems` · `System Design`
 
 ---
 
-## Technology
-
-<div align="center">
-
-### Languages
-
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="48" /></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" /></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="48" /></a>
-<a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c" height="48" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="48" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="48" /></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" height="48" /></a>
+# ✦ What I enjoy building
 
 <br>
 
-### Backend
+### ⚙️ Backend systems
 
-<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="48" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="48" /></a>
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" /></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="48" /></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="48" /></a>
+APIs · Microservices · Distributed Systems · Event-Driven Architecture · Databases
+
+### ☁️ Cloud infrastructure
+
+AWS · Serverless · Infrastructure as Code · CI/CD · Scalable Systems
+
+### ✧ AI applications
+
+LLMs · RAG · Generative AI · NLP · ML Ranking · AI-powered Products
+
+### 🤖 Robotics & real-time systems
+
+Computer Vision · Data Pipelines · Monitoring · Automation · Real-time Data
 
 <br>
 
-### Cloud & Infrastructure
+---
 
-<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="48" /></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48" /></a>
-<a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" height="48" /></a>
-<a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" height="48" /></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" /></a>
-<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="48" /></a>
-
-</div>
+# 💻 My stack
 
 <br>
 
 <div align="center">
 
-| **Backend & Architecture** | **Cloud & Data** | **AI / ML** |
-|:---:|:---:|:---:|
-| Microservices | AWS Lambda | LLM Applications |
-| REST APIs | S3 · DynamoDB | RAG |
-| System Design | Athena | Generative AI |
-| Distributed Systems | API Gateway | ML Ranking |
-| Event-Driven Architecture | Terraform | NLP |
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
+
+<br>
+<br>
+
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,flask,fastapi" />
+
+<br>
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,azure,git" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Java` · `Python` · `C++` · `TypeScript` · `SQL`
+
+`Spring Boot` · `React` · `Node.js` · `Flask` · `FastAPI`
+
+`AWS` · `Lambda` · `S3` · `DynamoDB` · `Athena` · `Bedrock`
+
+`Docker` · `Terraform` · `Azure DevOps` · `CI/CD`
 
 </div>
 
 ---
 
-# Experience
+# 🚀 What I've been building
 
-### 🏦 New York Life Insurance
-**Software Engineering Intern** · `June 2026 – August 2026`
+<br>
 
-- Built backend integration services using **Java and Spring Boot** within a microservices architecture.
-- Designed a **TFS → Git mirroring system** spanning **16 product/environment combinations**, with a changeset-diff fast path where **~95% of runs completed in under one second**.
-- Engineered **event-driven AWS Lambda services**, owning backend architecture, API contracts, and JUnit testing.
-- Built backend services and **LLM integrations** for an internal business tool delivering AI-generated insights to stakeholders.
+## 🧠 Aureon
 
-### 📊 Talcott Financial Group
-**Software Engineering Intern** · `June 2025 – August 2025`
+### User Adoption Intelligence
 
-- Engineered an **ETL pipeline and Power BI dashboard** using Azure DevOps REST APIs, processing **20K+ records**.
-- Reduced data-refresh time from **45+ minutes to 8 minutes** through query optimization.
-- Built CI/CD automation that reduced manual reporting effort by **85%**.
-- Automated backend workflows through REST API integrations, eliminating manual data-entry errors.
+A generative AI analytics platform that lets users ask **natural-language questions about business data**.
 
-### 🚀 Cornell Mars Rover Team
-**Software Engineer** · `September 2024 – Present`
+**Architecture**
 
-- Developed a real-time monitoring dashboard with live metrics and structured logging.
-- Improved observability and alerting, reducing debugging time by **70%**.
+`React` → `Python` → `AWS Bedrock` → `Lambda` → `Athena` → `S3`
 
-### 🤖 Cornell Organic Robotics Lab
-**Software Engineering Researcher** · `July 2024 – Present`
+**What I built**
 
-- Engineered Python pipelines for automated **image segmentation, feature extraction, and anomaly detection**.
-- Developed a RESTful backend with **real-time data streaming** for human-in-the-loop robotic control.
+- RAG-powered analytics with **AI-generated charts, metrics, and summaries**
+- Intent classification and knowledge-base retrieval
+- **Text-to-SQL** pipeline for S3 Parquet data
+- SQL validation and safety controls
+- Multi-turn conversational context with **DynamoDB**
+- Cloud infrastructure provisioned through **Terraform**
+
+<br>
 
 ---
 
-# Featured Projects
+## 💄 Makeup Mastermind
 
-<table>
-<tr>
+### AI Beauty Recommendation Platform
 
-<td width="50%" valign="top">
+A personalized recommendation system combining **machine learning, optimization, NLP, and product data**.
 
-### 🧠 Aureon
+**Architecture**
 
-**User Adoption Intelligence Chatbot**
+`React` → `Flask` → `scikit-learn` → `MILP` → `Claude API`
 
-`React` `Python` `AWS Bedrock` `Lambda` `Athena` `DynamoDB` `Terraform`
+**What I built**
 
-Architected a full-stack **generative AI analytics platform** that allows users to ask natural-language questions about business data.
-
-- RAG-based analytics with generated **charts, metrics, and executive summaries**
-- **Bedrock Agents** for intent classification and knowledge retrieval
-- Automated **text-to-SQL** against S3 Parquet data
-- Presto/Trino SQL generation with validation and safety controls
-- Multi-turn conversation state using **DynamoDB**
-- Infrastructure provisioned with **Terraform**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💄 Makeup Mastermind
-
-**AI Beauty Recommendation Platform**
-
-`Python` `Flask` `scikit-learn` `MILP` `Claude API`
-
-Full-stack recommendation system built over a **5,000+ product catalog**.
-
+- Recommendation engine across a **5,000+ product catalog**
 - Gradient Boosting, Random Forest, and Ridge ranking models
-- Model evaluation using **NDCG@5 and Precision@K**
+- Evaluation using **NDCG@5 and Precision@K**
 - Constraint-based **MILP routine planner**
 - Ingredient safety filtering
 - LLM-powered recommendation explanations
-- REST API backend with interactive chatbot interface
 
-</td>
-
-</tr>
-</table>
+<br>
 
 ---
 
-# Education
+# 💼 Experience
+
+<br>
+
+### 🏦 New York Life Insurance
+
+**Software Engineering Intern**  
+`June 2026 — August 2026`
+
+> Building backend systems, AWS services, and AI-powered internal tools.
+
+- Designed **Java + Spring Boot** integration services within a microservices architecture
+- Built a **TFS → Git mirroring system** across **16 product/environment combinations**
+- Created a changeset-diff fast path where **~95% of runs completed in <1 second**
+- Engineered event-driven services using **AWS Lambda**
+- Owned API contracts, backend architecture, and JUnit testing
+- Built backend services and **LLM integrations** for internal AI tooling
+
+<br>
+
+### 📊 Talcott Financial Group
+
+**Software Engineering Intern**  
+`June 2025 — August 2025`
+
+- Built an ETL pipeline processing **20K+ records**
+- Reduced data refresh time from **45+ minutes → 8 minutes**
+- Built CI/CD automation reducing manual reporting effort by **85%**
+- Automated backend workflows through REST API integrations
+
+<br>
+
+### 🚀 Cornell Mars Rover Team
+
+**Software Engineer**  
+`September 2024 — Present`
+
+- Built real-time monitoring and structured logging systems
+- Improved observability and alerting, reducing debugging time by **70%**
+
+<br>
+
+### 🤖 Cornell Organic Robotics Lab
+
+**Software Engineering Researcher**  
+`July 2024 — Present`
+
+- Built Python pipelines for image segmentation, feature extraction, and anomaly detection
+- Developed RESTful backend services with real-time data streaming
+
+---
+
+# 📊 A few things I've shipped
+
+<br>
+
+<div align="center">
+
+### 16
+product/environment combinations
+
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
+### 20K+
+records processed
+
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
+### 85%
+less manual reporting
+
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
+### ~70%
+less debugging time
+
+</div>
+
+<br>
+
+---
+
+# 🎓 Education
+
+<div align="center">
 
 ### Cornell University · College of Engineering
 
 **B.S. Computer Science**  
 **Minor in Artificial Intelligence**
 
-**GPA:** 3.75 / 4.0  
-**Expected Graduation:** December 2026
+`3.75 / 4.0 GPA` · `Expected December 2026`
+
+</div>
 
 ---
 
+<br>
+
 <div align="center">
 
-### Let's Connect
+# let's connect ✦
 
-<a href="https://www.linkedin.com/in/anamitra-rawat">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:anamitra.rawat1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+I'm currently looking for **New Grad Software Engineering opportunities**  
+focused on **backend, cloud, distributed systems, and AI**.
 
-<br><br>
+<br>
 
-<i>Building systems that scale — and AI that actually works.</i>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamitra-rawat)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamitra.rawat1@gmail.com)
+
+<br>
+<br>
+
+<sub>Thanks for stopping by ♡</sub>
 
 </div>
