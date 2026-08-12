@@ -1,61 +1,99 @@
-## Hi!
+# Hi! 👋
 
-My name is **Anamitra Rawat**
-I am currently an undergraduate student at **Cornell University**, College of Engineering. I am a rising senior majoring in Computer Science with a minor in **Artificial Intelligence**.
+I'm **Anamitra Rawat**, a Computer Science undergraduate at **Cornell University** with a minor in **Artificial Intelligence**, graduating in December 2026.
 
-### About Me
+I'm passionate about **backend engineering, distributed systems, cloud infrastructure, and applied AI**. I enjoy building reliable software systems that connect APIs, data, and intelligent applications.
 
-- 👓I'm passionate about **backend systems, machine learning, and building scalable software**.
-- 💼Incoming **Software Engineering Intern at New York Life Insurance ** (backend systems & AI initiatives)
-- 🎓Currently a Teaching Assistant for CS 4750/5750 Foundations of Robotics 
-- 🌱Learning **RAG and AWS migrations**.
-- 👩🏽‍💻Looking for **New Grad SWE positions**.
+### 🚀 About Me
 
-### Languages and Tools 🛠️
+- 💻 **Software Engineering Intern at New York Life Insurance**, working on backend systems, microservices, AWS, and AI-powered internal tools
+- 🎓 **B.S. Computer Science + Minor in Artificial Intelligence** at Cornell University — GPA: **3.75/4.0**
+- 🤖 Teaching Assistant at Cornell, mentoring students in **algorithms, data structures, and Python**
+- ☁️ Interested in **AWS, backend architecture, distributed systems, and generative AI**
+- 🔬 Software Engineer on the **Cornell Mars Rover Team** and researcher in the **Cornell Organic Robotics Lab**
+- 🌱 Currently exploring **RAG, LLM applications, cloud infrastructure, and scalable backend systems**
+- 👩‍💻 Looking for **New Grad Software Engineering opportunities**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🛠️ Languages & Technologies
 
+**Languages**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+Java · Python · C++ · C · JavaScript · TypeScript · SQL · HTML/CSS · PowerShell · OCaml
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Backend & Frameworks**
 
-### Project Experience 💡
+Spring Boot · React · Node.js · Flask · FastAPI · REST APIs · JUnit
 
-#### 💄 BeautyBytes | React, Flask, Python, scikit-learn 
-Built a full-stack makeup/skincare recommendation web app enabling natural language product discovery across 20K+ beauty products. Used TF-IDF vectorization and cosine similarity for query-to-product matching, with a RAG component that generates natural language explanations for each recommendation.
+**Cloud & Infrastructure**
 
-#### 💻 Makeup Mastermind | Python, Streamlit, scikit-learn, Claude API
-Built a personalized beauty recommender over a merged 5,000+ product dataset from Sephora and Ulta, fuzzy-matching cross-retailer products to unify the catalog. Compared three ranking models (Logistic Regression, Random Forest, Gradient Boosting) and integrated a Claude-powered chatbot that explains *why* each product is recommended based on skin type, budget, and ingredient preferences. Evaluated with NDCG@5 and precision@k, reported separately for makeup vs. skincare.
+AWS · Lambda · S3 · API Gateway · DynamoDB · Athena · Bedrock · Terraform · Docker · CI/CD · Azure DevOps
 
-#### 📊 SmartLoan Analyzer | Python, FastAPI, scikit-learn, JavaScript
-Built a full-stack ML application with a FastAPI backend and a scikit-learn model achieving 85% accuracy on loan approval predictions across 5K+ financial records. Added a Pydantic + StandardScaler validation pipeline that cut input errors by 30%.
+**Engineering**
 
-#### 📉 SprintPulse Analytics Platform | Power BI, SQL, REST API, ETL
-Built an executive BI dashboard tracking sprint velocity and team productivity across 5+ agile teams, with automated ETL pipelines ingesting work items from Azure DevOps APIs for real-time analytics.
+Data Structures & Algorithms · Object-Oriented Design · System Design · API Design · Microservices · Distributed Systems · Event-Driven Architecture · Relational & NoSQL Databases · Infrastructure as Code · Agile/Scrum
 
-### How to Reach me ? 📫
+### 💼 Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamitra-rawat/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamitra.rawat1@gmail.com)
+#### 🏦 New York Life Insurance — Software Engineering Intern
+**June 2026 – August 2026**
+
+- Designed and shipped backend integration services using **Java and Spring Boot** within a microservices architecture
+- Designed a **TFS → Git mirroring system** spanning 16 product/environment combinations with a changeset-diff fast path where ~95% of runs completed in under one second
+- Engineered **event-driven serverless services on AWS Lambda**, owning backend architecture, API contracts, and JUnit unit/integration testing
+- Built the backend and **LLM integration** for an internal business tool delivering AI-generated insights to stakeholders
+
+#### 📊 Talcott Financial Group — Software Engineering Intern
+**June 2025 – August 2025**
+
+- Engineered an **ETL pipeline and Power BI dashboard** using Azure DevOps REST APIs, processing 20K+ records
+- Reduced data-refresh time from **45+ minutes to 8 minutes** through query optimization
+- Built CI/CD automation that reduced manual reporting effort by **85%**
+- Automated backend workflows through REST API integrations, eliminating manual data-entry errors
+
+#### 🚀 Cornell Mars Rover Team — Software Engineer
+**September 2024 – Present**
+
+- Developed a real-time monitoring dashboard with live metrics and structured logging
+- Improved observability and alerting, reducing debugging time by **70%**
+
+#### 🤖 Cornell Organic Robotics Lab — Software Engineering Researcher
+**July 2024 – Present**
+
+- Engineered Python pipelines for automated image segmentation, feature extraction, and anomaly detection
+- Developed a RESTful backend with real-time data streaming for human-in-the-loop robotic control
+
+### 💡 Featured Projects
+
+#### 🧠 Aureon — User Adoption Intelligence Chatbot
+**React · Python · AWS Bedrock · Lambda · Athena · DynamoDB · Terraform**
+
+- Architected a full-stack **generative AI analytics chatbot** that answers natural-language business questions using warehouse data
+- Built a RAG-based system generating **metric tiles, charts, and executive summaries**
+- Designed a dual-path AWS backend using **Bedrock Agents** with intent classification, knowledge-base retrieval, SQL generation, and Athena execution
+- Built a **text-to-SQL pipeline** generating Presto/Trino SQL against S3 Parquet data with validation and safety guards
+- Added multi-turn conversational context using **DynamoDB session state**
+- Provisioned the cloud infrastructure using **Terraform**
+
+#### 💄 Makeup Mastermind
+**Python · Flask · scikit-learn · MILP · Claude API · REST API**
+
+- Built a full-stack recommendation system over a **5,000+ product catalog**
+- Trained and benchmarked **Gradient Boosting, Random Forest, and Ridge** ranking models using NDCG@5 and precision@k
+- Engineered a constraint-based **MILP routine planner** and ingredient safety filter
+- Integrated an LLM chatbot that explains why products are recommended based on user preferences
+
+### 🎓 Education
+
+**Cornell University — College of Engineering**  
+B.S. Computer Science · Minor in Artificial Intelligence  
+**GPA: 3.75/4.0 · Expected December 2026**
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anamitra-rawat)
+- 💻 [GitHub](https://github.com/anamitra-rawat)
+- 📧 [Email](mailto:anamitra.rawat1@gmail.com)
+
+---
+
+⭐️ Thanks for stopping by!
